@@ -1,4 +1,5 @@
-cd..
+--i chage it
+cd.
 cat <<EOF > myprogram.hs
 cd..
 cat <<EOF > myprogram.hs
