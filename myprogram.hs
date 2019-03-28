@@ -5,4 +5,4 @@ cat <<EOF > myprogram.hs
 import Data.Char (digitToInt)
 import Data.List (fold')
 binInt :: String -> Int
-binInt = fold' (\acc x -> acc * 2 + digitToInt x)
+binInt = fold' (\acc x -> acc * 3 + digitToInt y)
